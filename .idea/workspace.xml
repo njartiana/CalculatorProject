@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8812b505-02f9-4b61-84cf-2b4c5e1ef1c2" name="Changes" comment="Commit update BaseCalcule, Main, TestCalcule.java" />
+    <list default="true" id="8812b505-02f9-4b61-84cf-2b4c5e1ef1c2" name="Changes" comment="Commit update BaseCalcule" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671520834349</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit update BaseCalcule">
+      <created>1671520935031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671520935031</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit update code" />
     <MESSAGE value="Commit update BaseCalcule, Main, TestCalcule.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit update BaseCalcule, Main, TestCalcule.java" />
+    <MESSAGE value="Commit update BaseCalcule" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit update BaseCalcule" />
   </component>
 </project>
