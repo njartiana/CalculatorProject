@@ -6,5 +6,6 @@ public class Main {
         test.test_add();
         test.test_multiplication();
         test.test_substract();
+        test.test_division();
     }
 }

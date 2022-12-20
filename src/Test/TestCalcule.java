@@ -27,4 +27,13 @@ public class TestCalcule {
             System.out.println("Error for function multiplication");
         }
     }
+
+    public void test_division(){
+        if(base.divide(4,2) == 2){
+            System.out.println("Test division passed");
+        }
+        else{
+            System.out.println("Error for function division");
+        }
+    }
 }
